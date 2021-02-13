@@ -47,7 +47,7 @@
 }
 
 .site-title {
-  font-family: 'Montserrat', serif;
+  font-family: 'Source Sans Pro', sans-serif;
   font-size: 1rem;
   font-weight: 500;
   line-height: 1;
@@ -60,7 +60,7 @@
 }
 
 .site-description {
-  color: $gray;
+  color: $gray-light;
   font-family: $font-secondary;
   font-weight: normal;
   font-size: 0.625rem;
@@ -120,12 +120,12 @@
 }
 
 .menu-item {
-  border-top: 1px solid $gray-lighter;
+  border-top: 1px solid $gray;
   padding: 0.5em 0;
 }
 
 .menu-item a {
-  color: $gray;
+  color: $gray-lighter;
   text-decoration: none;
 }
 
