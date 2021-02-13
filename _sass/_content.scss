@@ -52,7 +52,7 @@
 }
 
 .post-share-title {
-  color: $gray-darkest;
+  color: $gray-light;
   display: inline-block;
   font-weight: 600;
   margin-right: 10px;
@@ -190,7 +190,7 @@ ul.archive-posts-list {
 
 /* Newsletter */
 .newsletter-box {
-  border: 1px solid $gray-lighter;
+  border: 1px solid $gray-dark;
   box-sizing: border-box;
   margin-bottom: 3.33333em;
   margin-top: 3.33333em;
