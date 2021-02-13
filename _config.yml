@@ -16,14 +16,14 @@ mailchimp_url: '//walkercraig.us11.list-manage.com/subscribe/post?u=b845f7d1807a
 ga_analytics: 
 
 # Contact form settings
-email: mail@walkercraig.com
+email: mail@challenge.media
 contact_page_description: "Feel free to contact Craig with any questions, concerns, or work related inquiries. You may also reach him by sending an email direct to the followinig address: mail at walkercraig dot com."
 thankyou_page_description: "Your message has been successfully sent. We will contact you soon!"
 
 # Social links
-twitter: 'wlkrcrg'
-facebook: 'wlkrcrg'
-instagram: 'wlkrcrg'
+twitter: 'challengemedia_'
+facebook: 'challengemediapage'
+instagram: 'challengemedia'
 
 # Navigation
 navigation:
