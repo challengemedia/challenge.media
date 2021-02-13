@@ -23,7 +23,7 @@ a {
 }
 
 a:hover {
-  color: $gray-lightest;
+  color: $gray-lighter;
   text-decoration: none;
 }
 
@@ -33,7 +33,7 @@ h3,
 h4,
 h5,
 h6 {
-  color: $gray-lightest;
+  color: $gray-lighter;
   font-family: $font-secondary;
   font-weight: 600;
   line-height: 1.2;
@@ -118,7 +118,7 @@ pre code {
 }
 
 blockquote {
-  color: $gray-lightest;
+  color: $gray-lighter;
   font-family: 'Sorts Mill Goudy', serif;
   font-size: 2rem;
   line-height: 1.25;
