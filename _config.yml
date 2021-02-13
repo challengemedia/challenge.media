@@ -7,7 +7,7 @@ logo:
 author:
   image: 'newchallengesmalllogolight.png'
   greetings: "Hello and Welcome."
-favicon: '/challengelogonewfavicon.png'
+favicon: '/favicon.ico'
 baseurl: '/'
 production_url: 'https://challengemedia.github.io/'
 disqus: 
