@@ -1,15 +1,15 @@
 # Site settings
-name: 'Craig Walker'
+name: 'Challenge Media'
 description: 
 meta_description: 
 logo:
 # Author image is used in site sidebar and greetings in the home page hero text
 author:
-  image: 'cwlogodark.png'
+  image: 'newchallengesmalllogolight.png'
   greetings: "Hello and Welcome."
 favicon: '/favicon.ico'
 baseurl: '/'
-production_url: 'https://walkercraig.github.io/'
+production_url: 'https://challengemedia.github.io/'
 disqus: 
 mailchimp_url: '//walkercraig.us11.list-manage.com/subscribe/post?u=b845f7d1807ad41b6c0437990&amp;id=7bd2f97cd8'
 # Add your GA Tracking Id
