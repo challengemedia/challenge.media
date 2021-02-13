@@ -120,12 +120,12 @@
 }
 
 .menu-item {
-  border-top: 1px solid $gray;
+  border-top: 1px solid $gray-dark;
   padding: 0.5em 0;
 }
 
 .menu-item a {
-  color: $gray-lighter;
+  color: $gray-light;
   text-decoration: none;
 }
 
@@ -168,5 +168,5 @@ a[href$="/rss/"] svg {
 .social-links a:hover,
 .menu-item a:hover,
 .current-menu-item a {
-  color: $color-accent;
+  color: $gray-lighter;
 }
