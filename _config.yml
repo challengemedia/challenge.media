@@ -17,7 +17,7 @@ ga_analytics:
 
 # Contact form settings
 email: mail@challenge.media
-contact_page_description: "Feel free to contact Craig with any questions, concerns, or work related inquiries. You may also reach him by sending an email direct to the followinig address: mail at walkercraig dot com."
+contact_page_description: "Feel free to contact Challenge Media with any questions, concerns, or work related inquiries. You may also reach us by sending an email direct to the followinig address: mail at challenge dot media."
 thankyou_page_description: "Your message has been successfully sent. We will contact you soon!"
 
 # Social links
@@ -31,18 +31,14 @@ navigation:
     url: /
   - text: About
     url: /about
-  - text: Letters
-    url: /tags/index.html#Letters
+  - text: News
+    url: /tags/index.html#News
   - text: Read
     url: /tags/index.html#Read
-  - text: Watch
-    url: /tags/index.html#Watch
-  - text: Listen
-    url: /tags/index.html#Listen
-  - text: Poems
-    url: /tags/index.html#Poems
-  - text: Organizations
-    url: /organizations
+  - text: Publications
+    url: /publications
+  - text: Creators
+    url: /creators
   - text: Contact
     url: /contact
   - text: Search
