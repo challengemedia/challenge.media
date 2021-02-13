@@ -33,10 +33,10 @@ navigation:
     url: /about
   - text: News
     url: /tags/index.html#News
-  - text: Read
-    url: /tags/index.html#Read
   - text: Publications
     url: /publications
+  - text: Our Work
+    url: /work
   - text: Creators
     url: /creators
   - text: Contact
