@@ -35,10 +35,8 @@ navigation:
     url: /tags/index.html#News
   - text: Publications
     url: /publications
-  - text: Our Work
-    url: /work
-  - text: Creators
-    url: /creators
+  - text: Network
+    url: /network
   - text: Contact
     url: /contact
   - text: Search
