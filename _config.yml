@@ -33,8 +33,6 @@ navigation:
     url: /about
   - text: Publications
     url: /publications
-  - text: Network
-    url: /network
   - text: Contact
     url: /contact
   - text: Search
