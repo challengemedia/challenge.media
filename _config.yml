@@ -31,8 +31,6 @@ navigation:
     url: /
   - text: About
     url: /about
-  - text: News
-    url: /tags/index.html#News
   - text: Publications
     url: /publications
   - text: Network
